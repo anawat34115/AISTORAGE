@@ -790,10 +790,9 @@ ul { list-style: none; }
   line-height: 1.6;
 }
 
-/* ===== PROJECTS SECTION ===== */
 .projects {
   padding: 100px 0;
-  background: var(--gray-50);
+  background: var(--white);
 }
 
 .projects-logo-grid {
@@ -803,21 +802,18 @@ ul { list-style: none; }
 }
 
 .project-logo-card {
-  background: var(--white);
-  border: 1px solid var(--gray-100);
-  border-radius: var(--radius-md);
-  padding: 32px 24px;
+  padding: 16px 12px;
   display: flex;
   flex-direction: column;
   align-items: center;
   text-align: center;
   transition: var(--transition);
+  border-radius: var(--radius-md);
 }
 
 .project-logo-card:hover {
   transform: translateY(-4px);
-  box-shadow: var(--shadow-md);
-  border-color: var(--blue-100);
+  background: rgba(14,165,233,0.03);
 }
 
 .project-logo-wrapper {
