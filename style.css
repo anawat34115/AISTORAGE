@@ -1394,7 +1394,7 @@ ul { list-style: none; }
 
 .diff-card {
   padding: 36px 32px;
-  border: 1px solid var(--gray-100);
+  border: 1px solid var(--gray-500);
   border-radius: var(--radius-lg);
   background: var(--white);
   transition: var(--transition);
