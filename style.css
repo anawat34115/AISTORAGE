@@ -1364,20 +1364,20 @@ ul { list-style: none; }
 }
 
 .mission-icon {
-  font-size: 2.5rem;
-  margin-bottom: 20px;
+  font-size: 4rem;
+  margin-bottom: 24px;
 }
 
 .mission-card h3 {
   font-family: var(--font-display);
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   font-weight: 700;
   color: var(--gray-900);
-  margin-bottom: 12px;
+  margin-bottom: 16px;
 }
 
 .mission-card p {
-  font-size: 0.9rem;
+  font-size: 1.1rem;
   color: var(--gray-500);
   line-height: 1.7;
 }
