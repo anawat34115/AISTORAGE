@@ -228,6 +228,12 @@ ul { list-style: none; }
   text-decoration: none;
 }
 
+.nav-logo img,
+.footer-brand img {
+  transform: scale(1.7);
+  transform-origin: left center;
+}
+
 .logo-icon {
   flex-shrink: 0;
 }
